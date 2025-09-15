@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "img" : "https://i.postimg.cc/g2DGPXKd/AI.jpg",
+        "title" : "Artificial Intelligence"
+    },
+    {
+        "id" : 2,
+        "img" : "https://i.postimg.cc/B6VzcpSM/ml.jpg",
+        "title" : "Machine Learning"
+    },
+    {
+        "id": 3,
+        "img" : "https://i.postimg.cc/D00vjx3D/dl.webp",
+        "title": "Deep Learning"
+    },
+    {
+        "id" : 4,
+        "img" : "https://i.postimg.cc/pTgHBDPQ/mI.jpg",
+        "title": "Medical Data Analysis "
+    },
+    {
+        "id" : 5,
+        "img" : "https://i.postimg.cc/Dzfp9Hmx/nlp.jpg",
+        "title": "NLP"
+    },
+    {
+        "id" : 6,
+        "img" : "https://i.postimg.cc/zGdsq9V2/xai.jpg",
+        "title": "Explainable AI"
+    }
+    
+]
