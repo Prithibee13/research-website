@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <section className="grid grid-cols-3 gap-10">
-          <div>
+          <div className="px-10 ">
             <Home></Home>
           </div>
           <div className="col-span-2">

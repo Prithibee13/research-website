@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "title" : "Medical Image Segmentation",
+        "img" : "https://i.postimg.cc/8CkH3V35/Segmentation-Brain.png"
+    },
+    {
+        "id" : 2,
+        "title" : "Uncertainity",
+        "img" : "https://i.postimg.cc/VN7RPVQF/uncertainty.jpg"
+    },
+    {
+        "id" : 3,
+        "title" : "Sentiment Analysis",
+        "img" : "https://i.postimg.cc/tJdnpsnH/sent.webp"
+    },
+    {
+        "id" : 4,
+        "title" : "XAI On Deep Learning",
+        "img" : "https://i.postimg.cc/HLQgSXqH/ex.png"
+    }
+]
