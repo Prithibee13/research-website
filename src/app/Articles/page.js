@@ -1,10 +1,11 @@
+import ArticlesList from "../../../Components/Articles/ArticlesList"
+
 const Articles = () =>
 {
     return(
-        <section>
-            <h2>Journal Articles</h2>
-            <p>Uncertainty Awarness of skin cancer segmentation models (ongoing)</p>
-            <h2>Conference Articles</h2>
+        <section className="px-8 mb-10 mt-10">
+            <h2 className="text-2xl font-bold mb-10">Resarch articles</h2>
+            <ArticlesList></ArticlesList>
         </section>
     )
 }
